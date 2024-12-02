@@ -1,2 +1,4 @@
 Just some random text.
 Creating changes.
+
+What is GUI?
